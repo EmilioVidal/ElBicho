@@ -29,21 +29,11 @@ section{
 .card .portugal{
     display: flex;
     width: 8%;
-    height: 4%;
+    height: 3%;
     align-self: end;
     position: absolute;
     top: 7.3%;
     left: 2%;
-}
-
-.card .al-nassar{
-    display: flex;
-    width: 7%;
-    height: 7%;
-    align-self: end;
-    position: absolute;
-    top: 5.4%;
-    left: 12%;
 }
 
 .card .cr7{
@@ -51,7 +41,7 @@ section{
     position: absolute;
     align-self: end;
     position: absolute;
-    top: -2%;
+    top: -2.8%;
     right: 3%;
     font-size: 50px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
